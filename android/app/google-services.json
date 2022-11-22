@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959035677428",
+    "project_id": "radio-miracle",
+    "storage_bucket": "radio-miracle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959035677428:android:6d5b07c0cdddcb78e45ca1",
+        "android_client_info": {
+          "package_name": "recipe.codes.radio_waw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959035677428-bkalm7aih67bh82no7enskor3hfqfcbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE0uKyt1v7ZV2YdTOBaOk2MaYIFFCV8DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959035677428-bkalm7aih67bh82no7enskor3hfqfcbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
